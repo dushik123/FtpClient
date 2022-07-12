@@ -1,6 +1,6 @@
 # FtpClient
 Need сreate floders **download_data** and **local_data** for correct work for windows execute the file CreateFloders.bat
-No ssh key connection
+No ssh privat key connection
 # Usage
     ls  -   Вывести текущий каталог файлов.
     mkd -   Создать каталог.
